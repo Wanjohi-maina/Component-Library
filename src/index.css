@@ -335,7 +335,7 @@ button.button-pill{
     .badge-pill {
      display: grid;
      grid-template-columns: repeat(4, 1fr);
-     justify-content: start;
+     /* justify-content: start; */
      margin: 20px 30px;
      /* align-items: start; */
     }
@@ -363,7 +363,7 @@ button.button-pill{
      font-size: 1rem;
      }
      .card-info {
-      width: 350px;
+      width: 300px;
       font-size: 0.9rem;
       }
       .test-container {
