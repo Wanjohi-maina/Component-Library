@@ -353,6 +353,7 @@ button.button-pill{
      font-size: 0.8rem;
      }
      .card-container{
+      /* width: 100%; */
       margin: 40px 30px;
      }
      .card-icon{
@@ -362,6 +363,7 @@ button.button-pill{
      font-size: 1rem;
      }
      .card-info {
+      width: 350px;
       font-size: 0.9rem;
       }
       .test-container {
@@ -370,7 +372,7 @@ button.button-pill{
        white 15%,
        #2545B8 15%
         );
-        max-width: 380px;
+        width: 380px;
         height: 650px;
         margin: 30px auto;
         border-radius: 10px;
@@ -395,7 +397,7 @@ button.button-pill{
      }
      .testNoPic-container{
   
-      max-width: 380px;
+      width: 380px;
       height: 560px;
       margin: 30px auto 60px;
       border-radius: 10px;
