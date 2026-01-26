@@ -402,7 +402,7 @@ button.button-pill{
       height: 560px;
       margin: 30px auto 60px;
       border-radius: 10px;
-      /* gap: 2em;  */
+      gap: 2em; 
       /* justify-content: start; */
      }
 
